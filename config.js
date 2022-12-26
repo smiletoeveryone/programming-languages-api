@@ -2,9 +2,9 @@ const config = {
   db: {
     /* don't expose password or any sensitive info, done only for demo */
     host: "db4free.net",
-    user: "fiftycentsjj",
-    password: "Holtumrs@66",
-    database: "login_fiftycents",
+    user: "your_username",
+    password: "your_password",
+    database: "name_of_database",
   },
   listPerPage: 20,
 };
